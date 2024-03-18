@@ -16,7 +16,7 @@ Follow the on-screen instructions to choose between encrypting, decrypting, or b
 Credits and Acknowledgments
 This project is inspired by and based upon concepts introduced in "Invent Your Own Computer Games with Python" by Al Sweigart. While the original book presents a foundation for creating simple games and projects including a basic version of the Caesar Cipher, our implementation has been extended to include a wider range of characters and a more user-friendly interactive interface.
 
-We express our gratitude to Al Sweigart for the educational content provided in his book, which has been instrumental in the development of this project. It is important to note that while our project is based on the principles outlined in his book, our implementation includes modifications and enhancements to meet our specific objectives.
+My gratitude to Al Sweigart for the educational content provided in his book, which has been instrumental in the development of this project.
 
 License
 This project is open-sourced under the MIT License. See the LICENSE file for more details.
