@@ -19,4 +19,5 @@ This project is inspired by and based upon concepts introduced in "Invent Your O
 My gratitude to Al Sweigart for the educational content provided in his book, which has been instrumental in the development of this project.
 
 License
+
 This project is open-sourced under the MIT License. See the LICENSE file for more details.
